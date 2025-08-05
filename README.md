@@ -2,7 +2,7 @@
 
 | Название проекта | Технологии | Ключевые задачи | Ссылка |
 |---|---|---|---|
-| *Исследование надежности заемщиков - анализ банковских данных* | Python, Pandas, Seaborn, Matplotlib | Обработка данных, дубликаты, пропуски, логическая индексация, группировка, сортировка | [Ссылка на репозиторий на GitHub](https://github.com/tromb17/Portfolio/tree/main/Project1) |
+| *Исследование надежности заемщиков - анализ банковских данных* | Python, Pandas, Seaborn, Matplotlib | Обработка данных, дубликаты, пропуски, логическая индексация, группировка, сортировка | [Ссылка на репозиторий на GitHub]([https://github.com/tromb17/Portfolio/tree/main/Project1](https://github.com/tromb17/Portfolio/tree/main/Borrower%20Reliability%20Research%20-%20analysis%20of%20banking%20data)) |
 | *Продажа квартир в Санкт-Петербурге - анализ рынка недвижимости* | Python, Pandas, Matplotlib | Обработка данных, histogram, boxplot, scattermatrix, категоризация, scatterplot,  фрод-мониторинг, сводные таблицы | [Ссылка на репозиторий на GitHub](https://github.com/tromb17/Portfolio/tree/main/real%20estate%20market%20analysis) |
 | *Определение выгодного тарифа для телеком комапаний* | Python, Pandas, Matplotlib, NumPy, SciPy | Обработка данных, histogram, boxplot, статистический тест, критерий Стьюдента | [Ссылка на репозиторий на GitHub](https://github.com/tromb17/Portfolio/tree/main/Determining%20the%20best%20tariff%20for%20telecom%20companies) |
 | *Выявление закономерностей, определяющих успешность игры* | Python, Pandas, Matplotlib, NumPy | Обработка данных, пропуски, исследовательский анализ | [Ссылка на репозиторий на GitHub](https://github.com/tromb17/Portfolio/tree/main/Identification%20of%20patterns%20that%20determine%20the%20success%20of%20the%20game) |
